@@ -1,10 +1,10 @@
 # Hi there, I'm Christina-Eleanna Samara! 👋
 
 ### AI/ML & Data Engineer | MEng Graduate
-I am an AI/ML and Data Engineer specialized in **Data-Centric AI** and **production-level model optimization**[cite: 1, 3]. [cite_start]I focus on bridging the gap between complex model research and robust, scalable data infrastructure.
+I am an AI/ML and Data Engineer specialized in **Data-Centric AI** and **production-level model optimization**. I focus on bridging the gap between complex model research and robust, scalable data infrastructure.
 
-* 🌍 **EU/EFTA Citizen** | [cite_start]English (C2) & German (B2)
-* 🎓 **Integrated Master of Computer Engineering and Informatics (MEng.)** | [cite_start]University of Patras (2020-2025)
+* 🌍 **EU/EFTA Citizen** | English (C2) & German (B2)
+* 🎓 **Integrated Master of Computer Engineering and Informatics (MEng.)** | University of Patras (2020-2025)
 * 📧 **Reach me at**: christinaesamara@gmail.com
 * 💼 **Connect with me**: [LinkedIn](https://linkedin.com/in/christinaesamara) 
 
