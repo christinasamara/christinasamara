@@ -1,6 +1,6 @@
-# Hi there, I'm Christina-Eleanna Samara! 👋
+#  Hi there, I'm Christina Eleanna Samara! ⚡
 
-### AI/ML & Data Engineer | MEng Graduate
+### AI/ML & Data Engineer | MEng Graduate | Tech Explorer 🚀
 I am an AI/ML and Data Engineer specialized in **Data-Centric AI** and **production-level model optimization**. I focus on bridging the gap between complex model research and robust, scalable data infrastructure.
 
 * 🌍 **EU/EFTA Citizen** | English (C2) & German (B2)
@@ -14,7 +14,7 @@ I am an AI/ML and Data Engineer specialized in **Data-Centric AI** and **product
 
 **Machine Learning & AI**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-* **Skills**: Computer Vision (ResNet, YOLOv5), Reinforcement Learning (DQN, LinTS), NLP (ColBERT, Semantic Search), Vector Embeddings.
+* **Skills**: Reinforcement Learning (DQN, LinTS), Computer Vision (ResNet, YOLOv5), NLP (ColBERT, Semantic Search), Vector Embeddings.
 
 **Data Engineering & Databases**
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
